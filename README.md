@@ -1,2 +1,2 @@
-# 001-HTML-DTS-KOMINFO-21
-Tugas DTS Kominfo ke - 1 HTML
+# 001-HTML-DTS-FE-21
+Repositori ini merupakan tugas pertama dari pelatihan digital talent frontend developers 2021 tentang html. membuat single web berdasarkan html dan css 
